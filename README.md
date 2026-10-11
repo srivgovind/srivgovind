@@ -2,7 +2,7 @@
 
 **Data Engineer | AWS · Azure · GCP · Snowflake · dbt · Databricks · Apache Spark · Python · SQL**
 
-I'm a data engineer with 3+ years of experience building production data pipelines, optimizing distributed processing, and improving data reliability. At **Deloitte Consulting**, I worked on cloud data solutions for enterprise supply chain and procurement systems.
+I'm a data and analytics engineer with 3+ years of experience building production data pipelines, optimizing distributed processing, and improving data reliability. At **Deloitte Consulting**, I worked on cloud data solutions for enterprise supply chain and procurement systems.
 
 I earned my **M.S. in Management Information Systems** from **Texas A&M University, Mays Business School**, in 2026.
 
