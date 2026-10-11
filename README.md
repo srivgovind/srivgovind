@@ -43,7 +43,7 @@ Built Python pipelines to ingest and transform Yelp Places API data covering **3
 
 - **Deloitte Applause Award (2×)** for client contributions
 - **TAMU Datathon 2025:** 3rd place among 40+ teams
-- Databricks Data Engineer Associate *(previously earned; verify current status)*
+- Databricks Data Engineer Associate 
 - Microsoft Azure AI Fundamentals (AI-900)
 - Microsoft Azure Data Fundamentals (DP-900)
 - Professional Scrum Master I (PSM I)
